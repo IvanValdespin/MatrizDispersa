@@ -1,6 +1,6 @@
 //
 //Matriz dispersa.h
-// Autores: Citlalli Avalos Montiel e Ivan Giovanni Valdespin Garcia
+// Autores: Ivan Giovanni Valdespin Garcia y Citlalli Avalos Montiel
 //Entrega 3-Diciembre-2021
 
 

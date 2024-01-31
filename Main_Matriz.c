@@ -1,7 +1,7 @@
 //  Main_Matriz.c
 //  
 //
-//  Por: Ivan Giovanni Valdespin Garcia y Citlalli Selene Avalos Montiel e 
+//  Por: Ivan Giovanni Valdespin Garcia y Citlalli Selene Avalos Montiel
 //  Entrega:31.10.2021
 
 #include "LecturaArchivo.c"

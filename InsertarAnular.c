@@ -2,7 +2,7 @@
 //  InsertarAnular.c
 //  
 //
-//  Por: Ivan Giovanni Valdespin Garcia Citlalli Selene Avalos Montiel.
+//  Por: Ivan Giovanni Valdespin Garcia y Citlalli Selene Avalos Montiel.
 //  Entrega:31.10.2021
 
 

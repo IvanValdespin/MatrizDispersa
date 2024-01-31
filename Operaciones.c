@@ -2,7 +2,7 @@
 //  Operaciones.c
 //  
 //
-//  Por: Citlalli Selene Avalos Montiel e Ivan Giovanni Valdespin Garcia
+//  Por: Ivan Giovanni Valdespin Garcia y Citlalli Selene Avalos Montiel
 //  Entrega:31.10.2021
 
 #include "MatrizDispersa.h"
